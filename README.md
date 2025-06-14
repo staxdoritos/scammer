@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-
 <head>
+    <html lang="en">
     <meta charset="utf-8">
     <title>scam alert</title>
     <style>
