@@ -5,12 +5,8 @@
     <meta charset="utf-8">
     <title>scam alert</title>
     <style>
-
-
-        
-   
-    body {
-background-color:gray;
+  body {
+background-color:blue;
 }
 body {
 text-align:center;
