@@ -8,13 +8,14 @@
 
 
         
-    </style>
+   
     body {
 background-color:gray;
 }
 body {
 text-align:center;
 }
+</style>
 </head>
 
 <body>
